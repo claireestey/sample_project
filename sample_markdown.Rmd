@@ -1,0 +1,6 @@
+---
+title: "sample_markdown"
+output: html_document
+---
+
+Hi! This is a sample markdown file to illustrate committing changes.
